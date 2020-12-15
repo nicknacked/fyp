@@ -1,0 +1,38 @@
+.rg-pad {
+    padding: 8px;
+}
+.btn-pad {
+    padding: 10px;
+}
+.in-valid-input {
+    border: 1px solid red;
+}
+
+.ReactTable .rt-thead.-filters input, .ReactTable .rt-thead.-filters select {
+	background: #8f94a1; 
+	color: rgba(0,0,0,0.6);
+}
+.ReactTable .-pagination input, .ReactTable .-pagination select {
+	background: #8f94a1; 
+	color: rgba(0,0,0,0.6);
+}
+.ReactTable .-pagination .-btn {
+    background: #8f94a1;
+}
+
+.ReactTable .rt-thead .rt-resizable-header-content {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.action-btn .btn {
+    padding: 6px 12px;
+}
+
+.cell-custom {
+    text-align: center;
+    padding-top: 10px
+}
+.opacity-5{
+    opacity: 0.5;
+}
