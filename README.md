@@ -14,3 +14,9 @@ After installing these we need to install the node modules using command
 Run server using command
 
 - nodemon  or node server.js 
+
+After running node server.js, change working directory to 'client'
+
+start the LMS by running 
+
+  -npm start
